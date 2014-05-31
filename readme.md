@@ -137,4 +137,7 @@ http://www.filedropper.com/hncommentsall
 ####Comments Download URL####
 http://www.filedropper.com/hncommentsall
 
+##More Info##
+See blog entry at http://shitalshah.com/p/downloading-all-of-hacker-news-posts-and-comments/
+
 If you have a suggestion for better place to host these files please create a new inssue in this repo with info and I would take a look at it (or better just fork and host :)).
