@@ -1,4 +1,4 @@
-#Hacker News Data Dump - May 2014#
+#Hacker News Data Dump Up to May 2014#
 There are two files that contains all stories and comments posted at Hacker News (https://news.ycombinator.com/) from its start in 2006 to May 29, 2014 (exact dates are below). This was downloaded using simple program available at https://github.com/sytelus/HackerNewsDownloader by making REST API calls to https://hn.algolia.com/api. The program used API parameters to paginate through created date of items to retrieve all posts and comments. The file contains entire sequence of JSON responses exactly as returned by API call in JSON array.
 
 ##Where to download##
