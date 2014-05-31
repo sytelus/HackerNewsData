@@ -137,4 +137,4 @@ http://www.filedropper.com/hncommentsall
 ####Comments####
 http://www.filedropper.com/hncommentsall
 
-If you have a suggestion for better place to host these files please create a new inssue in this repo with details and I would take a look at this.
+If you have a suggestion for better place to host these files please create a new inssue in this repo with info and I would take a look at it (or better just fork and host :)).
