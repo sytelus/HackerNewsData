@@ -1,10 +1,6 @@
 #Hacker News Data Dump Up to May 2014#
 There are two files that contains all stories and comments posted at Hacker News (https://news.ycombinator.com/) from its start in 2006 to May 29, 2014 (exact dates are below). This was downloaded using simple program available at https://github.com/sytelus/HackerNewsDownloader by making REST API calls to https://hn.algolia.com/api. The program used API parameters to paginate through created date of items to retrieve all posts and comments. The file contains entire sequence of JSON responses exactly as returned by API call in JSON array.
 
-##Where to download##
-As GitHub restricts each file to be only 100MB and also has policies against data ware housing, these files are currently hosted at FileDropper.com. Unfortunately FileDropper currently shows ads with misleading download link so be careful on what link you click. Below is the screenshot FileDropper shows and currently the button marked in red would download the actual file.
-![](FileDropperDownloadScreen.png?raw=true)
-
 ##HNStoriesAll.json##
 Contains all the stories posted on HN from Mon, 09 Oct 2006 18:21:51 GMT to Thu, 29 May 2014 08:25:40 GMT.
 
@@ -130,3 +126,7 @@ Entire file is JSON compliment array. Each element in array is json object that 
 	"params": "advancedSyntax=true\u0026analytics=false\u0026hitsPerPage=1\u0026tags=comment"
 }
 ```
+
+##Where to download##
+As GitHub restricts each file to be only 100MB and also has policies against data ware housing, these files are currently hosted at FileDropper.com. Unfortunately FileDropper currently shows ads with misleading download link so be careful on what link you click. Below is the screenshot FileDropper shows and currently the button marked in red would download the actual file.
+![](FileDropperDownloadScreen.png?raw=true)
