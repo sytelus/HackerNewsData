@@ -131,10 +131,10 @@ Entire file is JSON compliment array. Each element in array is json object that 
 As GitHub restricts each file to be only 100MB and also has policies against data ware housing, these files are currently hosted at FileDropper.com. Unfortunately FileDropper currently shows ads with misleading download link so be careful on what link you click. Below is the screenshot FileDropper shows and currently the button marked in red would download the actual file.
 ![](FileDropperDownloadScreen.png?raw=true)
 
-####Stories####
+####Stories Download URL####
 http://www.filedropper.com/hncommentsall
 
-####Comments####
+####Comments Download URL####
 http://www.filedropper.com/hncommentsall
 
 If you have a suggestion for better place to host these files please create a new inssue in this repo with info and I would take a look at it (or better just fork and host :)).
