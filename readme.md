@@ -132,15 +132,16 @@ As GitHub restricts each file to be only 100MB and also has policies against dat
 ![](FileDropperDownloadScreen.png?raw=true)
 
 ####Stories Download URL####
-Download using browser: http://www.filedropper.com/hnstoriesall
+http://www.filedropper.com/hnstoriesall
 
-Download using Torrent Client: [Magnet Link](magnet:?xt=urn:btih:00bfc9143ecdc8d3c27a170c2d1474e05ccdbc59&dn=HNStoriesAll.7z&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce)
+Alternatie using Torrent magnet link:
+magnet:?xt=urn:btih:00bfc9143ecdc8d3c27a170c2d1474e05ccdbc59&dn=HNStoriesAll.7z&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce
 
 
 ####Comments Download URL####
-Download using browser: http://www.filedropper.com/hncommentsall
+http://www.filedropper.com/hncommentsall
 
-Download using Torrent Client: [Magnet Link](magnet:?xt=urn:btih:21abd27bfe4c01264eb0548543606140ee48d19b&dn=HNCommentsAll.7z&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce)
+Alternatie using Torrent magnet link: magnet:?xt=urn:btih:21abd27bfe4c01264eb0548543606140ee48d19b&dn=HNCommentsAll.7z&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce
 
 
 ##More Info##
