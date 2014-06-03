@@ -132,7 +132,7 @@ As GitHub restricts each file to be only 100MB and also has policies against dat
 ![](FileDropperDownloadScreen.png?raw=true)
 
 ####Stories Download URL####
-http://www.filedropper.com/hncommentsall
+http://www.filedropper.com/hnstoriesall
 
 ####Comments Download URL####
 http://www.filedropper.com/hncommentsall
