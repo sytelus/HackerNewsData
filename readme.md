@@ -144,7 +144,7 @@ Alternatie using Torrent magnet link:
 http://www.filedropper.com/hncommentsall
 
 
-Alternatie using Torrent magnet link: 
+Alternative using Torrent magnet link: 
 
 `magnet:?xt=urn:btih:21abd27bfe4c01264eb0548543606140ee48d19b&dn=HNCommentsAll.7z&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce`
 
