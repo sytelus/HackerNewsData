@@ -14,7 +14,7 @@ Contains all the stories posted on HN from Mon, 09 Oct 2006 18:21:51 GMT to Thu,
 The program used to create this file is available at https://github.com/sytelus/HackerNewsDownloader.
 
 ###Format###
-Entire file is JSON compliment array. Each element in array is json object that is exactly the response that returned by HN Algolia REST API. The property named `hits` contains the actual list of stories. As this file is very large we recommend json parsers that can work on file streams instead of reading entire data in memory.
+Entire file is JSON compliant array. Each element in array is json object that is exactly the response that returned by HN Algolia REST API. The property named `hits` contains the actual list of stories. As this file is very large we recommend json parsers that can work on file streams instead of reading entire data in memory.
 
 ```json
 {
@@ -82,7 +82,7 @@ Contains all the comments posted on HN from Mon, 09 Oct 2006 19:51:01 GMT to Fri
 The program used to create this file is available at https://github.com/sytelus/HackerNewsDownloader.
 
 ###Format###
-Entire file is JSON compliment array. Each element in array is json object that is exactly the response that returned by HN Algolia REST API. The property named `hits` contains the actual list of stories. As this file is very large we recommend json parsers that can work on file streams instead of reading entire data in memory.
+Entire file is JSON compliant array. Each element in array is json object that is exactly the response that returned by HN Algolia REST API. The property named `hits` contains the actual list of stories. As this file is very large we recommend json parsers that can work on file streams instead of reading entire data in memory.
 
 ```json
 {
