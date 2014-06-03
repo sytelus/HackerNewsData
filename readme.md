@@ -132,21 +132,26 @@ As GitHub restricts each file to be only 100MB and also has policies against dat
 ![](FileDropperDownloadScreen.png?raw=true)
 
 ####Stories Download URL####
-http://www.filedropper.com/hnstoriesall
+Download Using Browser: http://www.filedropper.com/hnstoriesall
 
 
-Alternatie using Torrent magnet link:
+Download Using Torrent (thanks to @saturation):
 
 `magnet:?xt=urn:btih:00bfc9143ecdc8d3c27a170c2d1474e05ccdbc59&dn=HNStoriesAll.7z&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce`
 
 
+Now also available at Internet Archive (thanks to Bertrand Fan): https://archive.org/details/HackerNewsStoriesAndCommentsDump
+
 ####Comments Download URL####
-http://www.filedropper.com/hncommentsall
+Download Using Browser: http://www.filedropper.com/hncommentsall
 
 
-Alternative using Torrent magnet link: 
+Download Using Torrent (thanks to @saturation):
 
 `magnet:?xt=urn:btih:21abd27bfe4c01264eb0548543606140ee48d19b&dn=HNCommentsAll.7z&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce`
+
+
+Now also available at Internet Archive (thanks to Bertrand Fan): https://archive.org/details/HackerNewsStoriesAndCommentsDump
 
 
 ##More Info##
