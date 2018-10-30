@@ -1,18 +1,13 @@
 #Hacker News Data Dump Up to May 2014#
 There are two files that contains all stories and comments posted at Hacker News (https://news.ycombinator.com/) from its start in 2006 to May 29, 2014 (exact dates are below). This was downloaded using simple program available at https://github.com/sytelus/HackerNewsDownloader by making REST API calls to https://hn.algolia.com/api. The program used API parameters to paginate through created date of items to retrieve all posts and comments. The file contains entire sequence of JSON responses exactly as returned by API call in JSON array.
-
 ##HNStoriesAll.json##
 Contains all the stories posted on HN from Mon, 09 Oct 2006 18:21:51 GMT to Thu, 29 May 2014 08:25:40 GMT.
-
 ###Total count###
 1,333,789
-
 ###File size###
 1.2GB uncompressed, 115MB compressed
-
 ###How was this created###
 The program used to create this file is available at https://github.com/sytelus/HackerNewsDownloader.
-
 ###Format###
 Entire file is JSON compliant array. Each element in array is json object that is exactly the response that returned by HN Algolia REST API. The property named `hits` contains the actual list of stories. As this file is very large we recommend json parsers that can work on file streams instead of reading entire data in memory.
 
